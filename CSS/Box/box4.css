@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+#first {
+    margin: 3cm 0 5cm 0;
+}
+
+#second {
+    margin-left: 2cm;
+}
+
+#third {
+    margin-top: 25%;
+}

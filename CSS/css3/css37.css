@@ -1,0 +1,6 @@
+@charset "ISO-8859-1";
+div {
+    margin-top: 2cm;
+    text-align: center;
+    transform: scale(2, 3);
+}
